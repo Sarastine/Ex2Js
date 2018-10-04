@@ -1,5 +1,5 @@
-var lastName = "Nom : Doe\n";
-var firstName = "Prénom : John\n";
-var city = "Ville : New-York";
+var lastName = 'Doe';
+var firstName = 'John';
+var city = 'New-York';
 
-alert(lastName + firstName + city)
+alert('Nom : ' + lastName + '\nPrénom : ' + firstName + '\nVille : ' + city)
